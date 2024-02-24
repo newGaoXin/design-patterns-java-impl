@@ -1,9 +1,9 @@
 package create.abstractfactory;
 
-import create.defualt.Door;
-import create.defualt.Maze;
-import create.defualt.Room;
-import create.defualt.Wall;
+import create.game.Door;
+import create.game.Maze;
+import create.game.Room;
+import create.game.Wall;
 
 /**
  * 迷宫工厂

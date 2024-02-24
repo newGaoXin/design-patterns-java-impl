@@ -1,8 +1,10 @@
 package create.abstractfactory.bombed;
 
 import create.abstractfactory.MazeFactory;
-import create.defualt.Room;
-import create.defualt.Wall;
+import create.game.Room;
+import create.game.Wall;
+import create.game.bomded.BombedWall;
+import create.game.bomded.RoomWithABomb;
 
 /**
  * 炸弹迷宫工厂

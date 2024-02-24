@@ -1,7 +1,7 @@
 package create.builder;
 
-import create.defualt.Room;
-import create.defualt.Wall;
+import create.game.Room;
+import create.game.Wall;
 
 /**
  * todo

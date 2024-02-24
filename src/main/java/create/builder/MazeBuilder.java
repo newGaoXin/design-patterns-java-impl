@@ -1,6 +1,6 @@
 package create.builder;
 
-import create.defualt.Maze;
+import create.game.Maze;
 
 /**
  * 迷宫建造者-抽象类

@@ -1,6 +1,6 @@
-package create.abstractfactory.bombed;
+package create.game.bomded;
 
-import create.defualt.Wall;
+import create.game.Wall;
 
 /**
  * 被炸毁的墙

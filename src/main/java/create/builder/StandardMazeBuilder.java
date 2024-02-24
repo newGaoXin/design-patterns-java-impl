@@ -1,9 +1,9 @@
 package create.builder;
 
-import create.defualt.Direction;
-import create.defualt.Door;
-import create.defualt.Room;
-import create.defualt.Wall;
+import create.game.Direction;
+import create.game.Door;
+import create.game.Room;
+import create.game.Wall;
 
 /**
  * todo

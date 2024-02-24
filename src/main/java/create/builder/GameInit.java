@@ -1,6 +1,6 @@
 package create.builder;
 
-import create.defualt.Maze;
+import create.game.Maze;
 
 /**
  * 使用 builder 模式创建迷宫游戏

@@ -1,9 +1,9 @@
 package create.builder;
 
-import create.defualt.Maze;
+import create.game.Maze;
 
 /**
- * todo
+ * 迷宫游戏
  *
  * @author 高鑫
  * @date 2024/2/24 16:22

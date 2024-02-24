@@ -8,3 +8,4 @@
 default：最简单的实现方式（硬编码）
 abstract-factory：抽象工厂模式实现
 builder：生成器实现
+factory-method:工程方法

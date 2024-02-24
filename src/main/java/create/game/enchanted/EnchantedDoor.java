@@ -1,7 +1,7 @@
-package create.abstractfactory.enchanted;
+package create.game.enchanted;
 
-import create.defualt.Door;
-import create.defualt.Room;
+import create.game.Door;
+import create.game.Room;
 
 /**
  * 施了魔法的门

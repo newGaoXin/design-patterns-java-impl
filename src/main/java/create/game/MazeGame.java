@@ -1,4 +1,4 @@
-package create.defualt;
+package create.game;
 
 /**
  * 迷宫游戏

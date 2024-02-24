@@ -1,6 +1,6 @@
 package create.builder;
 
-import create.defualt.Maze;
+import create.game.Maze;
 
 /**
  * 创建一个复杂迷宫

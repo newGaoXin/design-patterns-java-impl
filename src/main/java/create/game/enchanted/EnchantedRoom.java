@@ -1,6 +1,6 @@
-package create.abstractfactory.enchanted;
+package create.game.enchanted;
 
-import create.defualt.Room;
+import create.game.Room;
 
 /**
  * 施了魔法的房间

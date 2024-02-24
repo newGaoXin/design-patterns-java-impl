@@ -1,18 +1,17 @@
-package create.abstractfactory.enchanted;
+package create.fatorymethod;
 
-import create.abstractfactory.MazeFactory;
 import create.game.Door;
 import create.game.Room;
 import create.game.enchanted.EnchantedDoor;
 import create.game.enchanted.EnchantedRoom;
 
 /**
- * 创建施了魔法的迷宫
+ * 施了魔法的迷宫游戏
  *
  * @author 高鑫
- * @date 2024/2/24 16:02
+ * @date 2024/2/24 19:27
  */
-public class EnchantedMazeFactory extends MazeFactory {
+public class EnchantedMazeGame extends MazeGame {
 
     @Override
     public Room makeRoom(final int num) {

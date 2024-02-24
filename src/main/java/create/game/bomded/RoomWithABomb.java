@@ -1,6 +1,6 @@
-package create.abstractfactory.bombed;
+package create.game.bomded;
 
-import create.defualt.Room;
+import create.game.Room;
 
 /**
  * 包含炸弹的房间

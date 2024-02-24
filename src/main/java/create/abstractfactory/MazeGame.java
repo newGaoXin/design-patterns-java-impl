@@ -1,9 +1,9 @@
 package create.abstractfactory;
 
-import create.defualt.Direction;
-import create.defualt.Door;
-import create.defualt.Maze;
-import create.defualt.Room;
+import create.game.Direction;
+import create.game.Door;
+import create.game.Maze;
+import create.game.Room;
 
 /**
  * 使用 MazeFactory 抽象工厂设计模式实现的  MazeGame
