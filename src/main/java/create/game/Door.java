@@ -8,11 +8,19 @@ package create.game;
  */
 public class Door implements MapSite {
 
-    private final Room room1;
+    protected Room room1;
 
-    private final Room room2;
+    protected Room room2;
+
+    public Door() {
+    }
 
     public Door(final Room room1, final Room room2) {
+        this.room1 = room1;
+        this.room2 = room2;
+    }
+
+    public void init(final Room room1, final Room room2) {
         this.room1 = room1;
         this.room2 = room2;
     }

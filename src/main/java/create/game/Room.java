@@ -15,16 +15,24 @@ public class Room implements MapSite {
     /**
      * 房间号
      */
-    private final int roomNum;
+    private int roomNum;
 
     /**
      * 方位
      */
-    private final HashMap<Direction, MapSite> directionMapSite;
+    private HashMap<Direction, MapSite> directionMapSite;
+
+    public Room() {
+        this.directionMapSite = new HashMap<>();
+    }
 
     public Room(final int roomNum) {
         this.roomNum = roomNum;
         this.directionMapSite = new HashMap<>();
+    }
+
+    public void init(int roomNum) {
+        this.roomNum = roomNum;
     }
 
     @Override
