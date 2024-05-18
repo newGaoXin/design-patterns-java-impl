@@ -22,4 +22,9 @@ public class StatementNode extends ProgramNode {
     public void remove(final ProgramNode programNode) {
 
     }
+
+    @Override
+    public void traverse(final CodeGenerator codeGenerator) {
+
+    }
 }
